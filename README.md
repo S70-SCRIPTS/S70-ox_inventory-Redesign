@@ -22,9 +22,9 @@ The redesigned interface will load automatically with `ox_inventory`, presenting
 ## ⚙️ Configuration
 
 For customization options:
-- **Color Schemes**: Change colors in the `index-9aba2ab3.css` file to align with your server’s theme.
+- **Color Schemes**: Change colors in the `.css` file to align with your server’s theme.
 - **UI Element Sizing**: Adjust the width, height, and other layout properties as needed.
-- **Weight Bar & Durability Bar Color** modify it in line no `19464` in .js file.
+- **Weight Bar & Durability Bar Color** modify it in line no `19464` in `.js` file.
 
 ## SCREENSHOTS
 
