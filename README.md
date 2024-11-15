@@ -23,9 +23,10 @@ The redesigned interface will load automatically with `ox_inventory`, presenting
 
 For customization options:
 - **Color Schemes**: Change colors in the `.css` file to align with your server’s theme.
+- **Adding your Logo**: Change the `logo link in .css` file.
 - **UI Element Sizing**: Adjust the width, height, and other layout properties as needed.
 - **Weight Bar & Durability Bar Color** modify it in line no `19464` in `.js` file.
 
 ## SCREENSHOTS
+![image](https://github.com/user-attachments/assets/b6063a7f-bd3b-445e-886f-6695f781a51c)
 
-![image](https://cdn.discordapp.com/attachments/1306867058738200617/1306867141252878436/Screenshot_2024-11-15_100748.png?ex=67383a5e&is=6736e8de&hm=f8c603ea9b13d66ca26a7ce239170ee2ac05d1e9c5aac0c40c856b1e6fbb0756&)
